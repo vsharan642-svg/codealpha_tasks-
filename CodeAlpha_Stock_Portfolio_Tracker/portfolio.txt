@@ -1,0 +1,7 @@
+STOCK PORTFOLIO SUMMARY
+=======================
+AAPL Quantity: 3
+TSLA Quantity: 5
+GOOGL Quantity: 2
+MSFT Quantity: 3
+Total Investment Value: 3330
